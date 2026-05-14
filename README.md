@@ -13,6 +13,9 @@
 
 ---
 
+### 🎯 Текущий фокус
+![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
+
 
 ### 🛠️ Технологический стек
 
@@ -21,6 +24,4 @@
 )
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🎯 Текущий фокус
-![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
 
