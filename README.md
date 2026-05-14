@@ -7,10 +7,12 @@ A results-driven IT specialist with a strong background in systems analysis and 
 ---
 
 ### 🚀 Summary
+- **Professional Background:** Over 1 year of commercial experience as a Systems Analyst at **Freeflex**. Deeply understand development pipelines, technical requirements management, and software architecture.
+- **Education & Certifications:** 
+  - Certified graduate of a rigorous 2-year on-site programming course at **Algoritmika School**.
+  - Certified graduate of the specialized **T-Start (T-Bank) Swift Development Program**.
+- **Tech Journey:** Deeply studying Python for over 5 years. Acquired solid foundational knowledge of C# and C++ through extensive academic engineering courses at university.
 - **Location:** St. Petersburg, Russia 📍
-- **Experience:** Broad background in IT development pipelines, technical requirements management, and solution architecture.
-- **Focus:** Passionate about performance, strict logic, and continuous stack expansion.
-
 ---
 
 
