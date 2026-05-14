@@ -1,22 +1,19 @@
 ## Hi there 😀
 
-# 👩‍💻 Developer Profile: Nataliia
+---
 
-A results-driven IT specialist with a strong background in systems analysis and software engineering. Focused on writing efficient, clean code and designing seamless mobile and desktop applications.
+### 🚀 Обо мне (Summary)
+- **Профессиональный опыт:** Более 1 года коммерческой работы системным аналитиком в компании **Freeflex**. Отлично знаю жизненный цикл ПО, процессы разработки, методы сбора технических требований и архитектуру приложений.
+- **Обучение и сертификаты:** 
+  - Сертифицированный выпускник очного 2-годичного курса программирования в школе **«Алгоритмика»**.
+  - Сертифицированный выпускник профильного обучения по iOS-разработке **«Т-старт» (Т-Банк)**.
+- **Путь в ИТ:** Более 5 лет глубоко изучаю Python. Также имею хорошую базу по C# и C++, которые долго и подробно изучала в рамках программы университета.
+- **Локация:** Санкт-Петербург, Россия 📍
 
 ---
 
-### 🚀 Summary
-- **Professional Background:** Over 1 year of commercial experience as a Systems Analyst at **Friflex**. Deeply understand development pipelines, technical requirements management, and software architecture.
-- **Education & Certifications:** 
-  - Certified graduate of a rigorous 2-year on-site programming course at **Algoritmika School**.
-  - Certified graduate of the specialized **T-Start (T-Bank) Swift Development Program**.
-- **Tech Journey:** Deeply studying Python for over 5 years. Acquired solid foundational knowledge of C# and C++ through extensive academic engineering courses at university.
-- **Location:** St. Petersburg, Russia 📍
----
 
-
-### 🛠️ Core Tech Stack
+### 🛠️ Технологический стек
 
 ![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Python-356D9E?style=for-the-badge&logo=python&logoColor=white)
