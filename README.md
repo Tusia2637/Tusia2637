@@ -1,7 +1,5 @@
 ## Hi there 😀
 
-![](https://komarev.com/ghpvc/?username=ksenia312&color=6e1418&style=for-the-badge&label=VIEWS%20)
-
 # 👩‍💻 Developer Profile: Nataliia
 
 A results-driven IT specialist with a strong background in systems analysis and software engineering. Focused on writing efficient, clean code and designing seamless mobile and desktop applications.
