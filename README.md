@@ -7,7 +7,7 @@ A results-driven IT specialist with a strong background in systems analysis and 
 ---
 
 ### 🚀 Summary
-- **Professional Background:** Over 1 year of commercial experience as a Systems Analyst at **Freeflex**. Deeply understand development pipelines, technical requirements management, and software architecture.
+- **Professional Background:** Over 1 year of commercial experience as a Systems Analyst at **Friflex**. Deeply understand development pipelines, technical requirements management, and software architecture.
 - **Education & Certifications:** 
   - Certified graduate of a rigorous 2-year on-site programming course at **Algoritmika School**.
   - Certified graduate of the specialized **T-Start (T-Bank) Swift Development Program**.
