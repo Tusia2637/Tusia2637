@@ -1,6 +1,5 @@
 ## Hi there 😀
 
----
 
 ### 🎯 Текущий фокус
 ![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
