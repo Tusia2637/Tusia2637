@@ -2,20 +2,21 @@
 
 ![](https://komarev.com/ghpvc/?username=ksenia312&color=6e1418&style=for-the-badge&label=VIEWS%20)
 
-### I'm [Nataliia]
+# 👩‍💻 Developer Profile: Nataliia
 
-I’m sick of making up the "About Me" section, so I’ve been
-- programming since 2021
-- living in the Saint-Petersburg since 2005 😀
-
-I’m also
-- good at what I do
-- better at doing things than talking about them
-- always finding some kind of hyperfixation
+A results-driven IT specialist with a strong background in systems analysis and software engineering. Focused on writing efficient, clean code and designing seamless mobile and desktop applications.
 
 ---
 
-I code what I love and I love what I code
+### 🚀 Summary
+- **Location:** St. Petersburg, Russia 📍
+- **Experience:** Broad background in IT development pipelines, technical requirements management, and solution architecture.
+- **Focus:** Passionate about performance, strict logic, and continuous stack expansion.
+
+---
+
+
+### 🛠️ Core Tech Stack
 
 ![](https://img.shields.io/badge/Swift-FF3B29?style=for-the-badge&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Python-356D9E?style=for-the-badge&logo=python&logoColor=white)
